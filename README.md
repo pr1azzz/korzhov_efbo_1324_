@@ -33,3 +33,4 @@ pip install -r requirements.txt
 
 # Проверка заданий осуществляется через Swagger и pytest
 http://localhost:8000/docs 
+python -m pytest tests/ -v --tb=short
