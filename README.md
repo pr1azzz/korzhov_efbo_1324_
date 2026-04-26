@@ -16,7 +16,7 @@ FastAPI приложение с поддержкой:
 
 ```bash
 # 1. Клонировать репозиторий
-git clone <your-repo-url>
+git clone <https://github.com/pr1azzz/korzhov_efbo_1324_>
 cd fastapi_control_work
 
 # 2. Создать виртуальное окружение
