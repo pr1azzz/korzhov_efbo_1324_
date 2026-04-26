@@ -30,3 +30,6 @@ source venv/bin/activate
 
 # 4. Установить зависимости
 pip install -r requirements.txt
+
+# Проверка заданий осуществляется через Swagger и pytest
+http://localhost:8000/docs 
